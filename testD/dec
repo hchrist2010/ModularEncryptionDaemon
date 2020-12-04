@@ -1,0 +1,3 @@
+#!/bin/bash
+
+enc_d $1 &

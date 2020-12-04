@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./otp_enc_d $1 &
+./otp_dec_d $2 &

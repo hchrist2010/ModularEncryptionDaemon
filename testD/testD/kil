@@ -1,0 +1,5 @@
+#!/bin/bash
+
+killall -q -u $USER otp_*
+killall -q -u $USER enc_d*
+
